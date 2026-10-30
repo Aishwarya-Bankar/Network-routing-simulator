@@ -19,3 +19,5 @@ python routing_simulator.py
 ## Example
 Route from A to F: A -> C -> B -> D -> E -> F (cost 13)
 After removing link D-E: A -> C -> B -> D -> F (cost 14)
+   ## Output
+   ![Program output](output.png)
